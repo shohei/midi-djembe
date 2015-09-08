@@ -2,8 +2,7 @@ Bill of Materials
 ================
 - Solenoid, Shindengen S-100S (Pull type)
  - [http://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=8AAV-6DMZ]()
- - ![image](https://cloud.githubusercontent.com/assets/855816/9726694/8b1e80da-5631-11e5-93e3-62748fcfbf64.png)
-
+ - ![image](https://cloud.githubusercontent.com/assets/855816/9726724/e1158f56-5631-11e5-98f0-5129d4f6fed2.png)
 - N-ch MOSFET 2SK2232 x4
  - [http://akizukidenshi.com/catalog/g/gI-02414/]()
 - Toggle switch x1
